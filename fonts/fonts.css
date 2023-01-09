@@ -1,0 +1,6 @@
+@font-face {
+  font-family: "Bai Jamjuree";
+  src: url("./Roboto/BaiJamjuree-Regular.woff2") format("woff2"),
+    url("./Roboto/BaiJamjuree-Regular.woff") format("woff");
+  font-weight: 400;
+}
